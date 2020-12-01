@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "tt0001011",
+    "type": "short",
+    "title": "The Prussian Spy",
+    "startyear": 1909,
+    "originaltitle": "The Prussian Spy",
+    "runtime": 5,
+    "genres": ["Drama", "Short"],
+    "directors": [
+      {
+        "_id": "nm0000428",
+        "name": "D.W. Griffith",
+        "birthyear": 1875,
+        "deathyear": 1948
+      }
+    ],
+    "writers": [
+      {
+        "_id": "nm0000428",
+        "name": "D.W. Griffith",
+        "birthyear": 1875,
+        "deathyear": 1948
+      }
+    ],
+    "actors": [
+      {
+        "_id": "nm0502701",
+        "name": "Marion Leonard",
+        "birthyear": 1881,
+        "deathyear": 1956,
+        "roles": "[\"Lady Florence\"]"
+      },
+      {
+        "_id": "nm0813603",
+        "name": "Harry Solter",
+        "birthyear": 1873,
+        "deathyear": 1920,
+        "roles": "[\"Count Lopes\"]"
+      },
+      {
+        "_id": "nm0601698",
+        "name": "Owen Moore",
+        "birthyear": 1884,
+        "deathyear": 1939,
+        "roles": "[\"The Spy\"]"
+      },
+      {
+        "_id": "nm0492757",
+        "name": "Florence Lawrence",
+        "birthyear": 1886,
+        "deathyear": 1938,
+        "roles": "[\"The Maid\"]"
+      },
+      {
+        "_id": "nm0424530",
+        "name": "Arthur V. Johnson",
+        "birthyear": 1876,
+        "deathyear": 1916,
+        "roles": "[\"Soldier\"]"
+      },
+      {
+        "_id": "nm0587097",
+        "name": "David Miles",
+        "birthyear": 1871,
+        "deathyear": 1915,
+        "roles": "[\"Soldier\"]"
+      },
+      {
+        "_id": "nm0784407",
+        "name": "Mack Sennett",
+        "birthyear": 1880,
+        "deathyear": 1960,
+        "roles": "[\"Soldier\"]"
+      }
+    ],
+    "avgrating": 4.7,
+    "numvotes": 6
+  }
+]
