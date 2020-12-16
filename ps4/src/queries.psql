@@ -1,0 +1,12 @@
+create table sample1(a varchar(256), b varchar(256), c varchar(256), d varchar(256))
+insert into sample1
+values (1,
+        2,
+        3,
+        4), (1,
+             2,
+             3,
+             3), (4,
+                  5,
+                  4,
+                  3)
